@@ -1,0 +1,1 @@
+{"kullanicilar": [{"isim": "Abdullah", "mail": "mail", "yorum": "Kiraladığım volvo aracın konforundan  çok memnun kaldım"}, {"isim": "Ali", "mail": "", "yorum": "Aradığınız zaman anında ulaşabiliyorsunuz"}, {"isim": "Eren", "mail": "", "yorum": "Fiyatları uygun "}]}
